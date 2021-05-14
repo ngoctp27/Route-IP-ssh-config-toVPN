@@ -6,8 +6,8 @@ At the beautyful day, when my city affected with covid-19 pademic. Everybody wor
 Our Router device and the bandwith internet has an issue. When too much user connect VPN, many employee WFH automatically disconnect from VPN. I think a solution to minimize that issue. And this reason I create this tool.
 
 
-### Add all Hostname from your ~/.ssh/config with route traffic to VPN side (VPN gateway).
-### Other traffic will through your local gateway.
+*  Add all Hostname from your ~/.ssh/config with route traffic to VPN side (VPN gateway).
+*  Other traffic will through your local gateway.
 
 
 ## Run the script
