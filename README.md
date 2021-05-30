@@ -8,7 +8,7 @@ This tool make from idea [ingerslev.io](https://ingerslev.io/2019-11-05-routing-
 *  Other traffic will go through your local network gateway.
 
 Don't forget TURN OFF ``Send all traffic over VPN connection`` at ``System Preferences\Network\VPN\Advanced``
-``
+
 ## Run the script
 ```bash
 $ ./vpn-route.sh
